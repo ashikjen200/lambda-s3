@@ -1,0 +1,6 @@
+venv/
+temp/
+check_file_lambda.zip
+check_file_lambda.zip.backup
+terraform.tfstate
+terraform.tfstate.backup
